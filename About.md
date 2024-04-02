@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @shivang0925
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python Programming 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @shivang
+- 👀 I’m interested in javascript
+- 🌱 I’m currently learning React and its framework
+- 💞️ I’m looking for the good opportunity on the Front-End jobs
 - 📫 How to reach me ...
 
 <!---
